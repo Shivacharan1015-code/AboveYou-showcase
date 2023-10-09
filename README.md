@@ -9,28 +9,32 @@ ETA for 0.0 - 15th Oct 2023
 Current progress - 7th October, 2023
 
 ## Home Screen
-<img src="https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/94b9a255-f276-4773-9356-4fd/182251841" width="300">
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/a2105b0d-810d-434e-bcec-9992a958a8ab" width="300">
+![IMG_8156](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/b4f4aab5-0651-42b1-b2a0-69f971ed7566)
+![IMG_8158](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/4be848c2-3f50-4527-9092-19af6ce9a0ca)
+
 
 ## Astronomy Picture of the Day
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/b9d710ae-e4b0-421c-b57c-aeba45a2aaf6" width="300">
+![IMG_8157](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/87eba5b0-e5c6-45b1-9989-50939ec67913)
 
 ## People In Space
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/0b92ae5a-630e-459e-b8f8-fee640f826df" width="300">
+![IMG_8159](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/bbdfec02-1027-48cb-b40a-02e4d71be40f)
 
 ## NASA Images
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/bb988045-150a-4850-8c4f-f8b5a4db60e7" width="300">
+![IMG_8160](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/27a14dfd-9e8d-44c1-9fa9-2b4793f35795)
 
 ## NASA Videos
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/57e65172-6caa-49d7-9afc-2b89a01acb03" width="300">
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/18442d1f-3e7b-4010-8d71-152c4bdf6396" width="300">
+![IMG_8161](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/7f97e531-ca1c-44dd-a057-1be81c0a5377)
+![IMG_8162](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/e2f407c6-629c-468e-b796-78eeff77a243)
+
 
 ## NASA Audio Files
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/e94275c6-6b11-4636-abdc-e2ba18183825" width="300">
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/34322362-9d54-4bcf-960a-cf6e6c78b160" width="300">
+![IMG_8163](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/8982de18-aad4-4e04-8864-1e9a04e751cd)
+![IMG_8164](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/ee99fd79-52e9-4750-9c66-0170b8b70cbe)
+
 
 ## Explore Mars
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/4b8450b1-6f81-4430-9912-69c8ad8ed561" width="300">
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/9bab5ff7-a784-4fbf-b0d3-1f33aef070c9" width="300">
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/493ed25f-00d3-4540-b3a0-7a5946e8628f" width="300">
+![IMG_8165](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/1064f326-5be7-4c6c-942e-253e32a53f44)
+![IMG_8166](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/b5c14f9a-d841-4a03-aa64-341399f16174)
+![IMG_8167](https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/a3d36a6a-7363-4b4b-8cfe-bdcf660da05c)
+
 
