@@ -9,7 +9,7 @@ ETA for 0.0 - 15th Oct 2023
 Current progress - 7th October, 2023
 
 ## Home Screen
-<img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/e42ae229-20e6-4831-88a3-452f17fd832e" width="300">
+<img src="https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/94b9a255-f276-4773-9356-4fd/182251841" width="300">
 <img src="https://github.com/Shivacharan1015-code/AboveYou/assets/72154593/a2105b0d-810d-434e-bcec-9992a958a8ab" width="300">
 
 ## Astronomy Picture of the Day
