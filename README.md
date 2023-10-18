@@ -8,7 +8,7 @@ Creating a application about Space, integrating as many NASA and other space API
 Work in progress
 
 ETA for 0.0 - 15th Oct 2023
-Current progress - 7th October, 2023
+Video From - 7th October, 2023, latest commit on private repo (18th Oct, 2023)
 
 ## Home Screen
 <img src="https://github.com/Shivacharan1015-code/AboveYou-showcase/assets/72154593/b4f4aab5-0651-42b1-b2a0-69f971ed7566" width="300">
