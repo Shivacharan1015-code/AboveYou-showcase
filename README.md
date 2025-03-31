@@ -5,6 +5,4 @@ Made with Swift - UIKit for iOS
 # AboveYou
 Creating a application about Space, integrating as many NASA and other space APIs as possible
 
-Work in progress
-
-Join the Beta: https://testflight.apple.com/join/00LvlIv4
+v2.0 in progress
